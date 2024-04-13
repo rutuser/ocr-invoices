@@ -10,7 +10,7 @@ Exposes the OCR services throught and http server
 
 Data used for training and validation
 
-### Model
+### Model (exluded from the source code due to file size)
 
 Different weights saved from the training. `weights_final.pth` is used in this model
 
