@@ -2,6 +2,15 @@
 
 This projects focuses on bulding and training a sistem which can extracts the relevant text from an invoice image
 
+### RESULTS
+
+Main results from the OCR system are displayed in `/ocr_invoices/notebooks/visualize.ipynb`.
+
+    - First 10 image precisions
+    - Average precisions from all the images
+    - Text extracted from all the images
+    - Metrics from the training
+
 ### Tools used
 
     - `Detectron2` is the model reponsible for the bounding boxes detection.
