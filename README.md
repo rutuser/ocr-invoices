@@ -1,5 +1,13 @@
 # OCR service and model for text extraction from an invoice image
 
+This projects focuses on bulding and training a sistem which can extracts the relevant text from an invoice image
+
+### Tools used
+
+    - `Detectron2` is the model reponsible for the bounding boxes detection.
+    - `Tesseract OCR` for the main text extraction
+    - `img2table` text extraction from tables
+
 ## Main sections of the project
 
 ### API
